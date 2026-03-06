@@ -8,9 +8,9 @@ The script creates a modern circular emblem featuring a coding-themed design wit
 
 ## Logo Preview
 
-*(Paste the generated logo image below after running the script)*
+<img width="800" height="800" alt="coding_club_logo" src="https://github.com/user-attachments/assets/2da5fa80-a8ed-4c68-b4cc-4502e7a8baa1" />
+<img width="800" height="800" alt="coding_club_logo_transparent" src="https://github.com/user-attachments/assets/f70647d3-599b-4494-975a-e2d9d0c028be" />
 
-![Coding Club AJCE Logo](logo_output.png)
 
 ---
 
