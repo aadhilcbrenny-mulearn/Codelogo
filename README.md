@@ -111,4 +111,4 @@ You can modify the script to change:
 
 ## Author
 
-Created for the **Coding Club, Amal Jyothi College of Engineering (AJCE), Kanjirapally**.
+Aadhil C Brenny, Created for the **Coding Club, Amal Jyothi College of Engineering (AJCE), Kanjirapally**.
