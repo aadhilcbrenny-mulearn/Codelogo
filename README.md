@@ -80,7 +80,7 @@ coding_club_logo_transparent.png
 ```
 project-folder
 │
-├── logo_generator.py
+├── logo.py
 ├── README.md
 ├── coding_club_logo.png
 └── coding_club_logo_transparent.png
