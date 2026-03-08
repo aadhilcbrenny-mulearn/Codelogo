@@ -1,4 +1,4 @@
-# Coding Club AJCE Logo Generator
+# Coding Club AJCE Logo
 
 This project contains a **Python script that programmatically generates the official logo for the Coding Club of AJCE** using the **Pillow (PIL)** image library.
 
